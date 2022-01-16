@@ -147,10 +147,7 @@ h1{
 }
 
 .credits {
-    position: absolute;
-    bottom: 16px;
-    left: 0;
-    right: 0;
+    margin-top: 20px;
     text-align: center;
     color: #8495c9;
 }
